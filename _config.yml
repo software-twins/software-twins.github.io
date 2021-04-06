@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
 title: [Software Twins]
-description: [architecture of modeling software, in which the structure of the program approaches the structure of the simulated technical system, and the algorithms of the program's operation approach the algorithms]
+description: [simulation software  that structurally and dynamically corresponding to the technical system]
