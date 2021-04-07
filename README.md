@@ -18,3 +18,4 @@ The picture below shows five tubes of various diameters and wall thicknesses. Th
 
 ![](https://software-twins.github.io/png/14-25-35.png) | ![](https://software-twins.github.io/png/16-17-15.png) | ![](https://software-twins.github.io/png/14-37-07.png)
 :---:|:---:|:---:
+     |     |
