@@ -8,7 +8,7 @@ The length, diameter and wall thickness of the tube may vary. Flow rate *g* (τ)
 
 Such the dependence is universal, it can establish constant and variables values of parameters with a wide or narrow range of variation.
 
-Now the tube is made from Steel, and Water flows inside it. Other materials that can be used to make the pipe (for example, Plastic,...), as well as other substances that flow in the pipe (for example, Air,...) can be added.
+Now the tube is made from Steel, and Water flows inside it. Other materials that can be used to make the pipe (for example, *Plastic*,...), as well as other substances that flow in the pipe (for example, *Air*,...) can be added.
 
 ### Unity version
 
