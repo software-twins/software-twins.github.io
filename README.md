@@ -18,13 +18,13 @@ It focuses on the representation of the temperature field of the tube in the for
 
 <table>
     <tr>
-        <td>![](https://software-twins.github.io/png/14-25-35.png) </td>
+        <td> ![](https://software-twins.github.io/png/14-25-35.png) </td>
     </tr>
      <tr>
-        <td>![](https://software-twins.github.io/png/16-17-15.png)  </td>
+        <td> ![](https://software-twins.github.io/png/16-17-15.png)  </td>
     </tr>
      <tr>
-        <td>![](https://software-twins.github.io/png/14-37-07.png) </td>
+        <td> ![](https://software-twins.github.io/png/14-37-07.png) </td>
     </tr>
 </table>
 
