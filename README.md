@@ -16,10 +16,5 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
 
 The picture below shows five tubes of various diameters and wall thicknesses. The dependences of the change in flow rate and water temperature in them are different.
 
-Solarized dark   |  Solarized Ocean    | Solarized dark |
-:---------------:|:-------------------:|:--------------:|
 ![](https://software-twins.github.io/png/Screenshot_2021-04-07_14-25-35.png) | ![](https://software-twins.github.io/png/Screenshot_2021-04-07_14-33-03.png) |
 ![](https://software-twins.github.io/png/Screenshot_2021-04-07_14-37-07.png) 
-
----
-
