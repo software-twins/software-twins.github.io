@@ -16,13 +16,8 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
 
 The picture below shows five tubes of various diameters and wall thicknesses. The dependences of the change in flow rate and water temperature in them are different.
 
-|![](https://software-twins.github.io/png/14-25-35.png)
-|![](https://software-twins.github.io/png/15-14-31.png)
-|![](https://software-twins.github.io/png/14-37-07.png)
-|
+|![](https://software-twins.github.io/png/14-25-35.png)|![](https://software-twins.github.io/png/15-14-31.png)|![](https://software-twins.github.io/png/14-37-07.png)|
 
 |:---:|:---:|:---:|
 
-|http://videoblocks.com
-|http://videoblocks.com
-|http://audioblocks.com
+|http://videoblocks.com|http://videoblocks.com|http://audioblocks.com|
