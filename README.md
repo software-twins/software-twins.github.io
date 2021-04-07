@@ -18,9 +18,7 @@ The picture below shows five tubes of various diameters and wall thicknesses. Th
 
 ---
 
-![Image](https://software-twins.github.io/png/Screenshot_2021-04-07_14-25-35.png) 
-![Image](https://software-twins.github.io/png/Screenshot_2021-04-07_14-33-03.png) 
-![Image](https://software-twins.github.io/png/Screenshot_2021-04-07_14-37-07.png) 
+![Image](https://software-twins.github.io/png/Screenshot_2021-04-07_14-25-35.png) ![Image](https://software-twins.github.io/png/Screenshot_2021-04-07_14-33-03.png) ![Image](https://software-twins.github.io/png/Screenshot_2021-04-07_14-37-07.png) 
 
 ---
 
