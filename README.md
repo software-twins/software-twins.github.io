@@ -16,24 +16,13 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
 
 It focuses on the representation of the temperature field of the tube in the form of a color gradient. Gradient is generated dynamically based on the calculation of the temperature field. The calculation of the temperature field is performed every 0.2 seconds, those 5 times per second. 
 
-<table>
-    <tr>
-        <td> ![](https://software-twins.github.io/png/14-25-35.png) </td>
-    </tr>
-     <tr>
-        <td> ![](https://software-twins.github.io/png/16-17-15.png)  </td>
-    </tr>
-     <tr>
-        <td> ![](https://software-twins.github.io/png/14-37-07.png) </td>
-    </tr>
-</table>
+![](https://software-twins.github.io/png/16-17-15.png)
 
-![](https://software-twins.github.io/png/14-25-35.png) 
-![](https://software-twins.github.io/png/16-17-15.png) 
+The picture shows five tubes of various diameters and wall thicknesses in interior. The dependences of the change in flow rate and water temperature in them are different. Below is another picture from a different angle. 
+
 ![](https://software-twins.github.io/png/14-37-07.png)
 
-The picture below shows five tubes of various diameters and wall thicknesses. The dependences of the change in flow rate and water temperature in them are different.Tube does not yet show the water that flows inside, because this is not necessary to represent the temperature field of the outer wall.
+Tube does not yet show the water that flows inside, because this is not necessary to represent the temperature field of the outer wall.
 
-![](https://software-twins.github.io/png/14-25-35.png) | ![](https://software-twins.github.io/png/16-17-15.png) | ![](https://software-twins.github.io/png/14-37-07.png)
-:---:|:---:|:---:
-     |     |
+
+![](https://software-twins.github.io/png/14-25-35.png) 
