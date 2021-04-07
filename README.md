@@ -16,7 +16,7 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
 
 ![](https://software-twins.github.io/png/14-25-35.png) | ![](https://software-twins.github.io/png/16-17-15.png) | ![](https://software-twins.github.io/png/14-37-07.png)
 :---:|:---:|:---:
-     |     |
+     |     | 
 
 The picture below shows five tubes of various diameters and wall thicknesses. The dependences of the change in flow rate and water temperature in them are different.Tube does not yet show the water that flows inside, because this is not necessary to represent the temperature field of the outer wall.
 
