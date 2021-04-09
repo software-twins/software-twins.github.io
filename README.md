@@ -14,7 +14,7 @@ Now the tube is made from Steel, and Water flows inside it. Other materials that
 
 The Unity version of the simulator is available [here](https://assetstore.unity.com/packages/slug/192521?_ga=2.52409002.2012061589.1617710108-1802814762.1615540003). 
 
-[![Little red riding hood](https://software-twins.github.io/png/16-17-15.png)](https://drive.google.com/file/d/1g1cKb-JRLkodt7VImbhOqrMH9pQ0HQQs/view?usp=sharing "Little red riding hood - Click to Watch!")
+[![TemperatureTube Example](https://software-twins.github.io/png/16-17-15.png)](https://drive.google.com/file/d/1g1cKb-JRLkodt7VImbhOqrMH9pQ0HQQs/view?usp=sharing "TemperatureTube Example - Click to Watch!")
 
 It focuses on the representation of the temperature field of the tube in the form of a color gradient. Gradient is generated dynamically based on the calculation of the temperature field. The calculation of the temperature field is performed every 0.2 seconds, those 5 times per second. 
 
