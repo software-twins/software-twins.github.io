@@ -24,4 +24,4 @@ The picture shows five tubes of various diameters and wall thicknesses in interi
 
 Tube does not yet show the water that flows inside, because this is not necessary to represent the temperature field of the outer wall.
 
-<div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/C4dRCUZlSEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center"><iframe width=column-width height="360" src="https://www.youtube.com/embed/C4dRCUZlSEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
