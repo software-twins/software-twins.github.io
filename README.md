@@ -20,7 +20,7 @@ It focuses on the representation of the temperature field of the tube in the for
 
 The picture shows five tubes of various diameters and wall thicknesses in interior. The dependences of the change in flow rate and water temperature in them are different. Below is another picture from a different angle. 
 
-<img src="https://software-twins.github.io/png/14-37-07.png" alt="TemperatureTube Example"width="640" height="335" style="float: left; margin-right: 10px;" />
+<img src="https://software-twins.github.io/png/14-37-07.png" alt="TemperatureTube Example" width="640" height="335" />
 
 ![](https://software-twins.github.io/png/14-37-07.png)
 
