@@ -14,7 +14,7 @@ Now the tube is made from Steel, and Water flows inside it. Other materials that
 
 The Unity version of the simulator is available [here](https://assetstore.unity.com/packages/slug/192521?_ga=2.52409002.2012061589.1617710108-1802814762.1615540003). It focuses on the representation of the temperature field of the tube in the form of a color gradient. Gradient is generated dynamically based on the calculation of the temperature field. The calculation of the temperature field is performed every 0.2 seconds, those 5 times per second.
 
-<iframe style="width:100%; height:220%" src="https://www.youtube.com/embed/c65wOoncqSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; height:335px" src="https://www.youtube.com/embed/c65wOoncqSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The pictures shows five tubes of various diameters and wall thicknesses in interior. The dependences of the change in flow rate and water temperature in them are different. Below is another picture from a different angle. 
 
