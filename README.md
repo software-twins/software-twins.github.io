@@ -18,8 +18,6 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
 
 The pictures shows five tubes of various diameters and wall thicknesses in interior. The dependences of the change in flow rate and water temperature in them are different. Below is another picture from a different angle. 
 
-<div align="center"><img src="https://software-twins.github.io/png/14-37-07.png" alt="TemperatureTube Example" width="640" height="335" /></div>
-
 Tube does not yet show the water that flows inside, because this is not necessary to represent the temperature field of the outer wall.
 
-<div align="center"><iframe width=screen.width / 3 height="360" src="https://www.youtube.com/embed/C4dRCUZlSEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="100%" height="170%" src="https://www.youtube.com/embed/C4dRCUZlSEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
