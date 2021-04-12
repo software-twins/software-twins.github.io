@@ -16,7 +16,7 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
 
 <table style="width:100%">
   <tr>
-    <th>
+    <td>
       <div style="position: relative; width: 50%; height: 0; padding-bottom: 49.27%">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" 
           src="https://www.youtube.com/embed/fR0Yvik6C8A" 
@@ -24,8 +24,8 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
           </iframe>
         </div>
-      </th>
-    <th>
+      </td>
+    <td>
       <div style="position: relative; width: 50%; height: 0; padding-bottom: 49.27%">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%" 
           src="https://www.youtube.com/embed/c65wOoncqSc" 
@@ -34,7 +34,7 @@ The Unity version of the simulator is available [here](https://assetstore.unity.
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
           </iframe>
         </div>
-      </th>
+      </td>
     </tr>
  </table>
 
