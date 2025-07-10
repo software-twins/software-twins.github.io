@@ -2,7 +2,7 @@
 
 Publications
 
-1. Smoothed-particle Hydrodynamics Method zur Simulation nichtstationärer Temperaturfelder /S.Alexejew // in der Vorbereitung
+1. Smoothed-particle Hydrodynamics Method for physically simulation non-stationary temperature fields /S.Alexejew // in der Vorbereitung
 
 2. Methodology of software system simulation development for virtual/augment reality system / S. Alekseev // International Review on Modeling and Simulation (I.RE.M.O.S). – 2018 – Т. 11, № 4. – P. 252 – 258.
 
