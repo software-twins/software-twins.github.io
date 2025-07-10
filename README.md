@@ -1,6 +1,6 @@
 ## TemperatureTube
 
-[Publications](https://github.com/software-twins/software-twins/blob/main/publications)
+[Publications](./publications.md)
 TemperatureTube - is a real-time temperature simulator for a tube, in which a fluid is flowing. It can be used to calculate and visualize the temperature of the outer surface of the tube in models of industrial rooms, machines and units, laboratory equipment. 
 
 The length, diameter and wall thickness of the tube may vary. Flow rate *g* (τ), flow temperature at the inlet to the tube *t* (τ) and ambient temperature *a* (τ) are non-stationary and can changeg  over time according to dependence:
